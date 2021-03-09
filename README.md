@@ -1,4 +1,4 @@
-### # Hey, I'm Gueni 👋
+### Hey, I'm Gueni 👋
 
 <!--
 **GueniPlayz/gueniplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
