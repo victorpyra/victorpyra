@@ -1,16 +1,18 @@
-### Hey, I'm Gueni 👋
+<h2>✨ Nice to meet you.</h2>
 
-<!--
-**GueniPlayz/gueniplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+✨ **Contact**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/GueniPlayz"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/462700048707223573"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+<br>
+
+✨ Languages
+
+<a href="https://youtu.be/jeg_TJvkSjg?t=6"><img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=java&logoColor=white"/></a> <a href="https://youtu.be/WM8bTdBs-cw?t=19"><img src="https://img.shields.io/badge/-SQL-brightgreen?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<br>
+✨ **My projects**
+
+× CollectCraft <br>
+× Minefact
