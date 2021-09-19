@@ -17,4 +17,4 @@
 ✨ **My projects**
 
 × <a href="https://collectcraft.de/">CollectCraft</a> <br>
-× Minefact
+× <a href="http://minefact.net/">Minefact</a> <br>
