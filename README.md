@@ -8,10 +8,12 @@
 
 <br>
 
-✨ Languages
+✨ **Languages**
 
 <a href="https://youtu.be/jeg_TJvkSjg?t=6"><img src="https://img.shields.io/badge/-Java-brightgreen?style=for-the-badge&logo=java&logoColor=white"/></a> <a href="https://youtu.be/WM8bTdBs-cw?t=19"><img src="https://img.shields.io/badge/-SQL-brightgreen?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
 <br>
+
 ✨ **My projects**
 
 × CollectCraft <br>
