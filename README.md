@@ -1,4 +1,4 @@
-<h2>✨ Nice to meet you.</h2>
+<h2>✨ Nice to meet you :) </h2>
 
 <br>
 
