@@ -17,4 +17,4 @@
 ✨ **Currently working on**
 
 × <a href="https://bausucht.net/" rel="noopener noreferrer" target="_blank">BauSucht</a> <br>
-× <a href="http://minefact.net/" rel="noopener noreferrer" target="_blank">Minefact</a> <br>
+<!-- × <a href="http://minefact.net/" rel="noopener noreferrer" target="_blank">Minefact</a> <br> -->
