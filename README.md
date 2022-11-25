@@ -17,4 +17,4 @@
 ✨ **Currently working on**
 
 × <a href="https://bausucht.net/" rel="noopener noreferrer" target="_blank">BauSucht.net</a> <br>
-× <a href="https://landania.net/)" rel="noopener noreferrer" target="_blank">Landania.net</a> <br
+× <a href="https://landania.net/)" rel="noopener noreferrer" target="_blank">Landania.net</a> <br>
