@@ -15,8 +15,3 @@
 <a href="https://www.youtube.com/watch?v=-UYgORr5Qhg"><img src="https://img.shields.io/badge/-Haskell-brightgreen?style=for-the-badge&logo=Haskell&logoColor=white"/></a>
 
 <br>
-
-✨ **Currently working on**
-
-× <a href="https://bausucht.net/" rel="noopener noreferrer" target="_blank">BauSucht.net</a> <br>
-× <a href="https://landania.net/)" rel="noopener noreferrer" target="_blank">Landania.net</a> <br>
